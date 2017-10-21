@@ -12,7 +12,7 @@ to deal with Uncertainty in a real world application'
 Supervisor: Raffaela Mirandola
 Co-supervisor: Diego Pérez Palacín 
 ---
-Contents;
-*Fuzzy Matlab (with Code & Documenttion for the fuzzy part)
-*Fuzzy NN (with Code & Documentation for the nerual networks part)
+Contents:
+* Fuzzy Matlab (with Code & Documenttion for the fuzzy part)
+* Fuzzy NN (with Code & Documentation for the nerual networks part)
 
