@@ -1,0 +1,18 @@
+for (i in 2:58434){
+  skype$Providers[i] <- skype$Providers[i-1]  +	skype$Binary_State[i]}
+
+for (i in 2:58434){
+	if (skype$Timestamp[i] == skype$Timestamp[i-1])
+		{skype$Timestamp[i] <- 1}
+ 	}
+
+ 	write.table(skype, "/Users/FM/Google Drive", sep="\t")
+
+ 	write.table(skype, "Users/skype.txt", sep="\t")
+
+ 	for (i in 1:58433){
+	if (skype$Timestamp[i+1] == skype$Timestamp[i])
+		{skype$Timestamp[i+1] <- 'ALFA'}
+ 	}
+
+ 	subset(skype,!duplicated(skype$Timestamp))

@@ -1,0 +1,28 @@
+root@Francescos-Air:~/Google Drive/TESI Marchesani/Datasets/availability-0.3/tools# /Users/FM/Google\ Drive/TESI\ Marchesani/Datasets/availability-0.3/tools/vis /Users/FM/Google\ Drive/TESI\ Marchesani/Datasets/availability-0.3/traces/web_sites.avt 
+
+Eseguire vis:
+
+vis col suo path + traccia col suo path
+
+ 0   Basic statistics
+ 1   Timeline
+ 2   Timeline, clustered (warning: slow for large traces)
+ 3   Number of nodes up vs. time
+ 4   Event rate vs. time
+ 5   Session time distribution
+ 6   Session time CDF
+ 7   Session time CDF w/sessions normalized by node's mean
+ 8   Per-node session time distribution
+ 9   CDF of total node uptime
+10   CDF of average node session time
+11   CDF of number of sessions
+12   Scatterplot of mean session time vs. number of sessions
+13   Scatterplot of mean session time vs. availability
+14   Scatterplot of mean session time in 1st vs. 2nd half of trace
+15   Downtime CDF (excluding downtimes touching beginning or end of trace)
+
+--
+
+si deve far partire x11
+e poi digitare nel terminale:
+export DISPLAY=:0.0
