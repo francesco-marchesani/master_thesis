@@ -15,4 +15,4 @@ Co-supervisor: Diego Pérez Palacín
 Contents:
 * Fuzzy Matlab (with Code & Documenttion for the fuzzy part)
 * NN Matlab (with Code & Documentation for the nerual networks part)
-
+* Datasets information (we will use 'skype.evt' cleaned)
