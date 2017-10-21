@@ -1,7 +1,7 @@
 # master_thesis
 Repository for Master Thesis (Code and Documentation)
 ---
-Alumn: Francesco Marchesani 
+Student: Francesco Marchesani 
 Politecnico di Milano (@POLIMI)
 Computer Science and Enegineering (Master Degree)
 Academic Year 16/17
