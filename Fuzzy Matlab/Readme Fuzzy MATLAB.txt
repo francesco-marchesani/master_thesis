@@ -8,7 +8,7 @@ In this folder it is possible to find MATLAB code (in .fis format) concerning:
 - Model Context Availability (starting from uncertainty sources) - (modelContext.fis)
 - Model Structure Availability (starting from uncertainty sources) - (modelStructure.fis)
 
-- Overall Availability (startig from the three computed before) - (overallAvailability.fis)
+- Overall Availability (starting from the three computed before) - (overallAvailability.fis)
 
 ---
 
