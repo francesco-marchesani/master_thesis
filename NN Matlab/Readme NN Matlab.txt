@@ -4,7 +4,7 @@
 
 In this folder it is possible to find MATLAB code concerning:
 
-- Nerual network training and prediction script - (nn_script.m)
+- Neural network training and prediction script - (nn_script.m)
 
 - Suitable MATLAB workspace for the script - (matlab_workspace_nn.mat)
 	|-> with the following variables:
@@ -15,32 +15,9 @@ In this folder it is possible to find MATLAB code concerning:
 
 - Additional NN worskapce with the generated net 
 	|-> [d=10, hn=10] - (matlab_workspace_nn_additional.mat)
-	* Note * predicted data are into the variable y2 after each exectution of the nn_script!
+	* Note * predicted data are into the variable y2 after each execution of the nn_script!
 
 ---
 
 Just import and run the files in a MATLAB environment with the NN Toolbox available.
-A nerual net will be generated (with additional MATLAB workspace variables)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+A neural net will be generated (with additional MATLAB workspace variables)
